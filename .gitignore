@@ -68,6 +68,8 @@ config/master.key
 .env.test
 .env*.local
 
+coverage
+
 ## Environment normalization:
 /.bundle
 /vendor/bundle
