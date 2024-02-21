@@ -65,7 +65,10 @@ config/master.key
 # dotenv, dotenv-rails
 # TODO Comment out these rules if environment variables can be committed
 .env
+.env.test
 .env*.local
+
+coverage
 
 ## Environment normalization:
 /.bundle
